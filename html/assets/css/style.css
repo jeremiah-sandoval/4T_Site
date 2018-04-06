@@ -502,7 +502,8 @@ h6 {
       position: relative;
       z-index: 2;
       opacity: 1;
-      visibility: visible; }
+      visibility: visible;
+      height: 25px; }
     .header .navbar-brand .light {
       position: absolute;
       z-index: 1;
@@ -2311,7 +2312,7 @@ a.social-icon {
     z-index: 1; }
 
   .header .navbar-brand .dark {
-    width: 45px; }
+    height: 20px; }
 
   .navbar-toggle {
     margin-bottom: 9px;
@@ -2523,20 +2524,11 @@ a.social-icon {
     font-size: 16px; }
 
   .slider-height, .small-height {
-    min-height: 325px !important; }
+    min-height: 425px !important; }
 
   .slide__text {
     height: 100%;
     padding-top: 140px; }
-
-  .slide:nth-child(1) .slide__text {
-    background-color: rgba(224, 0, 70, 0.95); }
-
-  .slide:nth-child(2) .slide__text {
-    background-color: rgba(255, 66, 0, 0.95); }
-
-  .slide:nth-child(3) .slide__text {
-    background-color: rgba(155, 70, 243, 0.95); }
 
   .project-page .slider .container .slide__text {
     padding-top: 100px; }
@@ -2577,7 +2569,7 @@ a.social-icon {
       text-align: center; } }
 @media only screen and (max-width: 667px) {
   .slider-height, .small-height {
-    min-height: 275px !important; }
+    min-height: 375px !important; }
 
   .slide__text {
     padding-top: 95px; }
