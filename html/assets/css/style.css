@@ -1,7 +1,6 @@
 @charset "UTF-8";
 /*------------------------------------------------------------------
 [Master Stylesheet]
-Project:SYM
 ++++ IMPORTS ++++
 ++++ RESET ++++
 ++++ MAIN ++++
@@ -1564,7 +1563,7 @@ a.social-icon {
 /** BLOG PAGE **/
 /****************************/
 .blog-page .slide .slide__overlay-path {
-  fill: #ffb4b9; }
+  fill: #003459; }
 .blog-page .slide__content .container {
   padding-top: 0; }
   .blog-page .slide__content .container .slide__text {
@@ -1654,7 +1653,7 @@ a.social-icon {
     .blogdetail-page .slide__content .container .slide__text {
       padding-top: 20%; }
   .blogdetail-page .slide .slide__overlay-path {
-    fill: #5ab47a; }
+    fill: #003459; }
   .blogdetail-page .blog-detail-padding {
     padding-left: 100px;
     padding-right: 100px; }
@@ -1861,7 +1860,7 @@ a.social-icon {
   .project-page .slider .container .slide__text {
     padding-top: 20%; }
 .project-page .slide .slide__overlay-path {
-  fill: #f9be00; }
+  fill: #003459; }
 .project-page .next-wrap {
   text-align: right; }
 .project-page .btn {
